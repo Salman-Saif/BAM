@@ -1,1 +1,2 @@
+this update will be done in the BR2 branch, instead of the main/master
 testing git cloning
